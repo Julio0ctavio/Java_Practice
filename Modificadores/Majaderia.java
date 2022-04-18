@@ -19,7 +19,7 @@ public class Majaderia {
 		if (genero == 'M' ) {
 			insultar = String.format("Pinche %s, ¡ponte a trabajar huerco mantenido!", nombre);
 		}else {
-			insultar = String.format("¡Órale cabrona! ¡a chingarle %s!", nombre);
+			insultar = String.format("¡Órale! ¡a chingarle %s!", nombre);
 			
 		}
 		System.out.println(insultar);
